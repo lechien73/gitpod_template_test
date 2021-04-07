@@ -8,6 +8,5 @@ vscode:
     - formulahendry.auto-close-tag
     - mkaufman.HTMLHint
     - eventyret.bootstrap-4-cdn-snippet
-    - esbenp.prettier-vscode
     - kevinglasson.cornflakes-linter
-
+    - hookyqr.beautify
